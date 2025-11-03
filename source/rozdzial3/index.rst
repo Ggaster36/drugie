@@ -1,4 +1,4 @@
 Zdjecie
 ==========
 
-.. image:: obrazy/kotek.png
+.. image:: kociak.jpg
